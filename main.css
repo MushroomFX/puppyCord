@@ -129,3 +129,18 @@ background-image: var(--icon_mute);
 #channels > ul > li:nth-child(8) > div.list_a478e5.list_d80634.listDefault_d80634 > div > div > div > div.icons_d80634 > div > div:nth-child(1) > *{
 opacity: 0;
 }
+
+/* stream Mute-Icon */
+#app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > div > div > div.chat_a7d72e > div.wrapper_d880dc.noChat_d880dc.video_d880dc > div.callContainer_d880dc.theme-dark.images-dark > div > div.flex_dc333f.horizontal_dc333f.justifyCenter_ec1a20.alignCenter_ec1a20.noWrap_ec1a20.videoGridWrapper_bae578 > div > div.listItems_d53d65 > div:nth-child(3) > div > div > div > div > div > div.overlayContainer_ba4b17 > div.overlayBottom_ba4b17 > div.statusContainer_ba4b17 > div > svg{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 20px;
+    height: 20px;
+    margin: auto;
+    background-image: var(--icon_mute_white);
+}
+
+#app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > div > div > div.chat_a7d72e > div.wrapper_d880dc.noChat_d880dc.video_d880dc > div.callContainer_d880dc.theme-dark.images-dark > div > div.flex_dc333f.horizontal_dc333f.justifyCenter_ec1a20.alignCenter_ec1a20.noWrap_ec1a20.videoGridWrapper_bae578 > div > div.listItems_d53d65 > div:nth-child(3) > div > div > div > div > div > div.overlayContainer_ba4b17 > div.overlayBottom_ba4b17 > div.statusContainer_ba4b17 > div > svg > *{
+opacity: 0;
+}
