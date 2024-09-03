@@ -48,22 +48,6 @@
 }
 
 /* mute icon next to name in call */
-#app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > div > div > div.chat_a7d72e > div.wrapper_d880dc.minimum_d880dc > div.callContainer_d880dc > div > div.root_ea9cce.voiceCallWrapper_bae578 > div:nth-child(1) > div:nth-child(2) > div > div > svg.status_db83a2{
-    opacity: 0;
-}
-
-#app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > div > div > div.chat_a7d72e > div.wrapper_d880dc.minimum_d880dc > div.callContainer_d880dc > div > div.root_ea9cce.voiceCallWrapper_bae578 > div:nth-child(1) > div:nth-child(2) > div > div > svg.status_db83a2{
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    width: 20px;
-    height: 20px;
-    margin: auto;
-
-    background-image: var(--icon_mute);
-}
-
-/* mute icon next to name in call */
 div > div > svg.status_db83a2 > path{
     opacity: 0;
 }
