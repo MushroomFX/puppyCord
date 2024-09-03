@@ -52,6 +52,49 @@
         background-image: var(--icon_mute);
 }
 
+/* Call-Buttons (stream) */
+#app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > div > div > div.chat_a7d72e > div.wrapper_d880dc.normal_d880dc.video_d880dc > div.callContainer_d880dc.theme-dark.images-dark > div > div.videoControls_dd069c > div.bottomControls_dd069c.controlSection_dd069c > div.flex_dc333f.horizontal_dc333f.justifyCenter_ec1a20.alignCenter_ec1a20.noWrap_ec1a20 > div.wrapper_b6e2f9 > div:nth-child(4) > svg > foreignObject > div > button > div > div > svg{
+    opacity: 0;
+}
+
+#app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > div > div > div.chat_a7d72e > div.wrapper_d880dc.normal_d880dc.video_d880dc > div.callContainer_d880dc.theme-dark.images-dark > div > div.videoControls_dd069c > div.bottomControls_dd069c.controlSection_dd069c > div.flex_dc333f.horizontal_dc333f.justifyCenter_ec1a20.alignCenter_ec1a20.noWrap_ec1a20 > div.wrapper_b6e2f9 > div:nth-child(4) > svg > foreignObject > div > button > div > div{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 20px;
+    height: 20px;
+    margin: auto;
+}
+#app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > div > div > div.chat_a7d72e > div.wrapper_d880dc.normal_d880dc.video_d880dc > div.callContainer_d880dc.theme-dark.images-dark > div > div.videoControls_dd069c > div.bottomControls_dd069c.controlSection_dd069c > div.flex_dc333f.horizontal_dc333f.justifyCenter_ec1a20.alignCenter_ec1a20.noWrap_ec1a20 > div.wrapper_b6e2f9 > div:nth-child(4) > svg > foreignObject > div > button.staticButton_ef18ee.centerButton_ef18ee.colorable_ef18ee.white_ef18ee.button_dd4f85.lookBlank_dd4f85.colorBrand_dd4f85 > div > div{
+    background-image: var(--icon_unmute_black);
+}
+
+#app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > div > div > div.chat_a7d72e > div.wrapper_d880dc.normal_d880dc.video_d880dc > div.callContainer_d880dc.theme-dark.images-dark > div > div.videoControls_dd069c > div.bottomControls_dd069c.controlSection_dd069c > div.flex_dc333f.horizontal_dc333f.justifyCenter_ec1a20.alignCenter_ec1a20.noWrap_ec1a20 > div.wrapper_b6e2f9 > div:nth-child(4) > svg > foreignObject > div > button.staticButton_ef18ee.centerButton_ef18ee.colorable_ef18ee.primaryDark_ef18ee.button_dd4f85.lookBlank_dd4f85.colorBrand_dd4f85 > div > div{
+    background-image: var(--icon_mute);
+}
+
+/* Call-Buttons server stream */
+#app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > div > div > div.chat_a7d72e > div.wrapper_d880dc.noChat_d880dc.video_d880dc > div.callContainer_d880dc.theme-dark.images-dark > div > div.videoControls_dd069c > div.bottomControls_dd069c.controlSection_dd069c > div.flex_dc333f.horizontal_dc333f.justifyCenter_ec1a20.alignCenter_ec1a20.noWrap_ec1a20 > div.wrapper_b6e2f9 > div:nth-child(4) > svg > foreignObject > div > button > div > div > svg{
+    opacity: 0;
+}
+
+#app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > div > div > div.chat_a7d72e > div.wrapper_d880dc.noChat_d880dc.video_d880dc > div.callContainer_d880dc.theme-dark.images-dark > div > div.videoControls_dd069c > div.bottomControls_dd069c.controlSection_dd069c > div.flex_dc333f.horizontal_dc333f.justifyCenter_ec1a20.alignCenter_ec1a20.noWrap_ec1a20 > div.wrapper_b6e2f9 > div:nth-child(4) > svg > foreignObject > div > button > div > div{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 20px;
+    height: 20px;
+    margin: auto;
+}
+#app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > div > div > div.chat_a7d72e > div.wrapper_d880dc.noChat_d880dc.video_d880dc > div.callContainer_d880dc.theme-dark.images-dark > div > div.videoControls_dd069c > div.bottomControls_dd069c.controlSection_dd069c > div.flex_dc333f.horizontal_dc333f.justifyCenter_ec1a20.alignCenter_ec1a20.noWrap_ec1a20 > div.wrapper_b6e2f9 > div:nth-child(4) > svg > foreignObject > div > button.staticButton_ef18ee.centerButton_ef18ee.colorable_ef18ee.white_ef18ee.button_dd4f85.lookBlank_dd4f85.colorBrand_dd4f85 > div > div{
+    background-image: var(--icon_unmute_black);
+}
+#app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > div > div > div.chat_a7d72e > div.wrapper_d880dc.noChat_d880dc.video_d880dc > div.callContainer_d880dc.theme-dark.images-dark > div > div.videoControls_dd069c > div.bottomControls_dd069c.controlSection_dd069c > div.flex_dc333f.horizontal_dc333f.justifyCenter_ec1a20.alignCenter_ec1a20.noWrap_ec1a20 > div.wrapper_b6e2f9 > div:nth-child(4) > svg > foreignObject > div > button.staticButton_ef18ee.centerButton_ef18ee.colorable_ef18ee.primaryDark_ef18ee.button_dd4f85.lookBlank_dd4f85.colorBrand_dd4f85 > div > div{
+    background-image: var(--icon_mute);
+}
+
+
+
 /* mute icon next to name in call */
 div > div > svg.status_db83a2 > path{
     opacity: 0;
@@ -69,4 +112,20 @@ div > div > svg.status_db83a2{
 }
 .status_db83a2{
     background-color: #0000
+}
+
+
+
+/* server list icon */
+#channels > ul > li:nth-child(8) > div.list_a478e5.list_d80634.listDefault_d80634 > div > div > div > div.icons_d80634 > div > div:nth-child(1){
+    background-size: contain;
+background-repeat: no-repeat;
+background-position: center;
+width: 16px;
+height: 16px;
+margin: auto;
+background-image: var(--icon_mute);
+}
+#channels > ul > li:nth-child(8) > div.list_a478e5.list_d80634.listDefault_d80634 > div > div > div > div.icons_d80634 > div > div:nth-child(1) > *{
+opacity: 0;
 }
